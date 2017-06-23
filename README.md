@@ -33,7 +33,7 @@ Vous devez avoir 2 fichiers : un fichier *index.html* et un fichier *app.js*.
 
 - [Les bases du javascript](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)
 - Boites de messages 
-    - [Boîte d'affichage basique](https://www.w3schools.com/jsref/met_win_alert.asp)
-    - [Boîte de saisie](https://www.w3schools.com/jsref/met_win_prompt.asp)
-    - [Boîte de confirmation](https://www.w3schools.com/jsref/met_win_confirm.asp)
+    - [Boîte d'affichage basique](http://www.toutjavascript.com/reference/ref-window.alert.php)
+    - [Boîte de saisie](https://developer.mozilla.org/fr/docs/Web/API/Window/prompt)
+    - [Boîte de confirmation](http://www.toutjavascript.com/reference/ref-window.confirm.php)
     
